@@ -1,7 +1,7 @@
 {
   "name": "cn.com.zerogame.unitypackages.attributes",
   "displayName": "ZGUP Attributes",
-  "version": "2.2.52",
+  "version": "2.2.53",
   "unity": "2022.2",
   "unityRelease": "0f1",
   "dependencies": {
