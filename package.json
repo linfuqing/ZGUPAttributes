@@ -1,0 +1,15 @@
+{
+  "name": "cn.com.zerogame.unitypackages.attributes",
+  "displayName": "ZGUP Attributes",
+  "version": "2.2.52",
+  "unity": "2022.2",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "cn.com.zerogame.unitypackages": "2.2.1"
+  },
+  "description": "Zero Game Unity Package Attributes",
+  "keywords": [
+    "zg",
+    "attribute"
+  ]
+}
