@@ -2,9 +2,9 @@
     "name": "ZG.Attributes.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:beff58cf91ef5dc4f8939ec84aca2109",
-        "GUID:4ef6fca698a819a45a56658a454d07b6",
-        "GUID:3c32e8396e0deea47955aba669abd767"
+        "ZG",
+        "ZG.Editor",
+        "ZG.Attributes"
     ],
     "includePlatforms": [
         "Editor"
